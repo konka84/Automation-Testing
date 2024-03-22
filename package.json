@@ -1,0 +1,19 @@
+{
+  "name": "bongobd_automation",
+  "version": "1.0.0",
+  "description": "In this project I automated the BongoBD OTT website using Selenium, Java, TestNG, Page Object Model. As a build management tool I have used maven. You don't have to instantiate browser drivers. Just go to the main/src/resources folder and run the testng.xml file and you're good to go.  #\u0000 \u0000A\u0000u\u0000t\u0000o\u0000m\u0000a\u0000t\u0000i\u0000o\u0000n\u0000-\u0000T\u0000e\u0000s\u0000t\u0000i\u0000n\u0000g\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konka84/Automation-Testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konka84/Automation-Testing/issues"
+  },
+  "homepage": "https://github.com/konka84/Automation-Testing#readme"
+}
